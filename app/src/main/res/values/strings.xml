@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ghost Buster</string>
+    <string name="ghost_buster">Ghost Buster</string>
+    <string name="play">Play</string>
+    <string name="high_score">High Score</string>
+    <string name="todo">TODO</string>
+    <string name="volume_control">Volume Control</string>
+</resources>
